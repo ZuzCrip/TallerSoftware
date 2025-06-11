@@ -4,7 +4,9 @@ Ariel Mero Gavilanez
 Domenica Amores
 Carlos Aguilera
 Adrian Pincay
-Diagrama 2
+
+
+Diagrama 1
 ![DiagramaDeSecuencia1_Reporte](https://github.com/user-attachments/assets/cb5f3b49-2582-499a-8838-3f8195b4913f)
 
 
